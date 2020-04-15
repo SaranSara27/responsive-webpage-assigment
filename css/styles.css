@@ -1,0 +1,22 @@
+footer{
+    background-color:black;
+    color:#fff;
+    width: 100%;
+} 
+
+.car-image-size{
+    width: 100%;
+    height: 65vh;
+ }
+
+.jumbotron
+{
+    background-color: darkcyan;
+}
+
+p{
+    font-family: 'Roboto', sans-serif;
+    }
+    
+
+
