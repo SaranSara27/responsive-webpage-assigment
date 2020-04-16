@@ -4,6 +4,10 @@ footer{
     width: 100%;
 } 
 
+#mytitle{
+color: deeppink;
+}
+
 .car-image-size{
     width: 100%;
     height: 65vh;
