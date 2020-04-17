@@ -1,21 +1,39 @@
 footer{
-    background-color:black;
+    background-color:lawngreen;
     color:#fff;
     width: 100%;
 } 
 
 #mytitle{
-color: deeppink;
+    color: deeppink;
+}
+
+#myslides h1{
+    color: black;
+}
+
+#myslides h5{
+    color: blue;
+}
+
+#myslides img{
+    background: rgba(0,0,0,0.2);
+    
 }
 
 .car-image-size{
     width: 100%;
-    height: 65vh;
+    height: 70vh;
  }
 
 .jumbotron
 {
     background-color: darkcyan;
+}
+
+#myImage{
+    border: 2px solid red;
+    border-radius: 15px;
 }
 
 p{
